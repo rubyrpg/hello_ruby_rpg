@@ -1,7 +1,6 @@
 GIT
   remote: https://github.com/rubyrpg/ruby_rpg.git
-  revision: e68038f2318ced7b0be45470831c2c8622d47353
-  branch: create_gem
+  revision: 18a80d9cfa7548980e75184f43a4a6b754562246
   specs:
     ruby_rpg (0.0.1)
       chunky_png (~> 1.4)
