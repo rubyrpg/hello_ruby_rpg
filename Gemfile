@@ -2,5 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "ruby_rpg",
-    git: "https://github.com/rubyrpg/ruby_rpg.git"
+gem "ruby_rpg", "0.0.2"
