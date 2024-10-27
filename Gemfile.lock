@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rubyrpg/ruby_rpg.git
-  revision: 26e1e849991308e640f13d1ee9f2a53fdf484323
+  revision: e68038f2318ced7b0be45470831c2c8622d47353
   branch: create_gem
   specs:
     ruby_rpg (0.0.1)
@@ -9,6 +9,7 @@ GIT
       matrix (~> 0.3)
       opengl-bindings2 (~> 2.0)
       os
+      rmagick (~> 6.0, >= 6.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -16,8 +17,13 @@ GEM
     chunky_png (1.4.0)
     concurrent-ruby (1.3.4)
     matrix (0.4.2)
+    observer (0.1.2)
     opengl-bindings2 (2.0.2)
     os (1.1.4)
+    pkg-config (1.5.7)
+    rmagick (6.0.1)
+      observer (~> 0.1)
+      pkg-config (~> 1.4)
 
 PLATFORMS
   arm64-darwin-23
