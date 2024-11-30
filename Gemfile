@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "ruby_rpg", "0.0.3"
+gem "ruby_rpg", "0.0.4"

@@ -8,11 +8,11 @@ GEM
     observer (0.1.2)
     opengl-bindings2 (2.0.2)
     os (1.1.4)
-    pkg-config (1.5.7)
+    pkg-config (1.5.8)
     rmagick (6.0.1)
       observer (~> 0.1)
       pkg-config (~> 1.4)
-    ruby_rpg (0.0.3)
+    ruby_rpg (0.0.4)
       chunky_png (~> 1.4)
       concurrent-ruby
       matrix (~> 0.3)
@@ -26,7 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ruby_rpg (= 0.0.3)
+  ruby_rpg (= 0.0.4)
 
 BUNDLED WITH
    2.5.9
